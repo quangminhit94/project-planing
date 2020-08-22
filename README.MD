@@ -1,6 +1,6 @@
 # Base on how to solve a problem
 
-!(How solve a problem)[https://www.wikihow.vn/Gi%E1%BA%A3i-quy%E1%BA%BFt-V%E1%BA%A5n-%C4%91%E1%BB%81]
+![How solve a problem](https://www.wikihow.vn/Gi%E1%BA%A3i-quy%E1%BA%BFt-V%E1%BA%A5n-%C4%91%E1%BB%81)
 
 # Giai quyet van de
 

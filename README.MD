@@ -6,4 +6,4 @@
 
 3. Phân chia task để giải quyết vấn đề
 
-4. Đánh dấu hoàn thành nếu vấn đề hoàn toàn giải quyết
+4. Đóng nhiệm vụ khi hoàn thành

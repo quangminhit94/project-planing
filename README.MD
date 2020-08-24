@@ -18,3 +18,7 @@
 
 # Tạo task hoặc question càng chi tiết càng dễ làm, nếu cần quay video hoặc vẽ để trình bày 🔥
 
+# Cam kết thời gian làm việc của tôi
+
+- Từ 19h đến 21h cho việc này mỗi tối
+- Cam kết mỗi cuối tuần họp mặt 1 lần để tổng kết rút kinh nghiệm, chia sẻ thông tin

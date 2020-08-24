@@ -25,3 +25,4 @@
 
 **Nhận xét: Các trang home, about, contact cú pháp giống component react js nên khá dễ sử dụng**
 
+### Gatsby prop

@@ -11,7 +11,7 @@
 - Gatsby mạnh về content managerment system, có thể lựa chọn các component giống wordpress
 - khi làm freelance có thể tích hợp với wordpress làm được những website có nội dung static và dynamic
 
-** Câu hỏi: tôi có thể xây dựng một dự án kinh doanh với gatsby và đem bán không?
+**Câu hỏi: tôi có thể xây dựng một dự án kinh doanh với gatsby và đem bán không?**
 
 ### Cài đặt
 - Cài nodejs ở trang nodejs.org
@@ -22,5 +22,6 @@
 - Trong gatsby, tạo các file home.js, about.js và contact.js ở thư mục pages/ 
 - Gatsby tự động tạo url `localhost:3000/home`, `localhost:3000/about`, `localhost:3000/contact`
 - Có thể dùng `<Link to="contact">Contact me</Link>` thay vì dùng thẻ a để đổi route
-** Nhận xét: Các trang home, about, contact cú pháp giống component react js nên khá dễ sử dụng
+
+**Nhận xét: Các trang home, about, contact cú pháp giống component react js nên khá dễ sử dụng**
 

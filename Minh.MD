@@ -16,10 +16,11 @@
 ### Cài đặt
 - Cài nodejs ở trang nodejs.org
 - Cài lệnh `npm install -g gatsby-cli`
-- vào thư mục cần tạo project `gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world`
+- tạo một project tên là hello-world dùng lệnh `gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world`
 
 ### Gatsby route
 - Trong gatsby, tạo các file home.js, about.js và contact.js ở thư mục pages/ 
 - Gatsby tự động tạo url `localhost:3000/home`, `localhost:3000/about`, `localhost:3000/contact`
+- Có thể dùng `<Link to="contact">Contact me</Link>` thay vì dùng thẻ a để đổi route
 ** Nhận xét: Các trang home, about, contact cú pháp giống component react js nên khá dễ sử dụng
 

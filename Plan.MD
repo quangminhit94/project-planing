@@ -1,3 +1,10 @@
+# 26/8/2020 Bán ở chợ material-ui
+
+https://material-ui.zendesk.com/hc/en-us/articles/360008775380-How-do-I-apply-to-be-a-contributor-
+
+- Dùng google dịch toàn bộ trang nếu cảm thấy khó hiểu
+
+
 # Giai đoạn thực hiện
 
 |Giai đoạn 1| Giai đoạn 2 |Giai đoạn 3|

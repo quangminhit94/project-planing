@@ -23,7 +23,7 @@
 - Từ 19h đến 21h cho việc này mỗi tối
 - Cam kết mỗi cuối tuần họp mặt 1 lần để tổng kết rút kinh nghiệm, chia sẻ thông tin
 
-# Quy trình làm việc
+# Quy trình 1
 
 1. Họp team xác định ý tưởng yêu cầu dự án.
 2. ấn định thành viên thiết kế giao diện, thiết kế các sơ đồ, chuẩn bị môi trường làm việc có thời gian nộp cụ thể, thường là 1 tuần.
@@ -35,6 +35,7 @@
 - Làm theo mô hình Scrum
 -Có những kỹ thuật cụ thể để có thể chia nhỏ ra làm như vậy như tạo server giả, database giả, tạo profile, mình không thể nói hết ra đây vì còn phụ thuộc ngôn ngữ bạn dùng, nhưng cơ bản nó là vậy.
 
+# Quy trình 2
 1. Viết ra userstory có dạng “Who” want to “do something”:
 - User muốn xem tất cả các user khác quanh mình.
 - User muốn xem profile của user khác

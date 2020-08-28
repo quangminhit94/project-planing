@@ -83,9 +83,9 @@ material-dashboard-pro-react
     │   │   └── flags
     │   ├── jss
     │   │   ├── material-dashboard-pro-react
-    │   │   │   ├── components
-    │   │   │   ├── layouts
-    │   │   │   └── views
+    │   │   │   ├── components // style inline của một element con
+    │   │   │   ├── layouts // style inline của một layout
+    │   │   │   └── views // style inline của một route
     │   │   └── material-dashboard-pro-react.jsx
     │   └── scss
     │       ├── material-dashboard-pro-react

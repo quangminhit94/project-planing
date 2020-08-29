@@ -42,5 +42,5 @@ Chúng tôi cần một ứng dụng bao gồm các bước sau:
 2. screen Table: stt, tên ảnh, tọa độ cần sửa, nội dung cũ, nội dung mới. 1 button để render hình ảnh mới
 3. Screen kết quả: hình ảnh kết quả. 1 nút dowload hình. \
 
-!(Design mockup cho app)[https://ibb.co/6DSjZv7]
+![Design mockup cho app](https://ibb.co/6DSjZv7)
 

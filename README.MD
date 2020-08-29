@@ -76,3 +76,33 @@ VD:
 - Bước 3: Điều chỉnh lại các thông số cho chuẩn
   - Chỉ cần nắm được thông tin chứa trong phần debug bạn có thể suy nghĩ ra logic mình còn thiếu
   - Nếu vẫn chưa giải quyết vấn đề xong bạn đọc lại doc và truy xuất core bên trong node_module/
+  
+# Quy trình code frontend dựa trên kinh nghiệm thực tế (Minh)
+Cách 1: Đã có design, logic request, chưa có api
+I. Kiểm tra resource
+1. Kiểm tra design
+- Có đủ các thông số không?
+- Có bản mobile không?
+- UX có tốt không?
+  - logic của design bao gồm 2 câu hỏi lớn, có bao nhiêu và tại sao?
+  - Sự cân bằng của ứng dụng, thiết kế thế nào nên hiển thị cái gì, khung tiêu chuẩn cho thiết kế...
+  - Flow chiến lược, ví dụ sau khi bấm xóa thì có form thông báo hiện lên để confirm hay không? tại sao? Nằm trong chiến lược tiết kiệm thời gian và thu hút người dùng
+2. Kiểm tra logic request
+- Có hiểu yêu cầu của logic request? - Chưa hiểu thì đặt câu hỏi liên quan để bổ sung vào logic. Ví dụ User muốn xem profile của user khác
+- Logic của request kết hợp với logic design có mâu thuẫn gì không?
+3. Kiểm tra logic api
+- Thiết kế cơ sở dữ liệu có chuẩn không?
+II. Thiết kế và code component
+1. Từ design ta quan sát và chia nhỏ component, đặt câu hỏi để thiết kế component, chẳng hạn nó gồm bao nhiêu thành phần. Ví dụ card bao gồm html card, style card...
+2. Thực hiện các bước code
+- Map api với khung component đơn giản
+- Test lại logic
+- Từ khung component tìm các thư viện phù hợp để sửa lại khung cho đúng design và logic, bắt đầu từ mobile trước
+III. Thực hiện test manual
+
+
+Cách 2: Đã có api, có logic request, chưa có design
+- Thiết kế api, kiểm tra logic request
+- Thiết kế component đơn giản để load api
+- Từ khung thiết kế component sửa lại giao diện theo design
+

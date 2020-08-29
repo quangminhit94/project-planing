@@ -79,7 +79,7 @@ VD:
   
 # Quy trình code frontend dựa trên kinh nghiệm thực tế (Minh)
 Cách 1: Đã có design, logic request, chưa có api
-I. Kiểm tra resource
+## I. Kiểm tra resource
 1. Kiểm tra design
 - Có đủ các thông số không?
 - Có bản mobile không?
@@ -92,13 +92,13 @@ I. Kiểm tra resource
 - Logic của request kết hợp với logic design có mâu thuẫn gì không?
 3. Kiểm tra logic api
 - Thiết kế cơ sở dữ liệu có chuẩn không?
-II. Thiết kế và code component
+## II. Thiết kế và code component
 1. Từ design ta quan sát và chia nhỏ component, đặt câu hỏi để thiết kế component, chẳng hạn nó gồm bao nhiêu thành phần. Ví dụ card bao gồm html card, style card...
 2. Thực hiện các bước code
 - Map api với khung component đơn giản
 - Test lại logic
 - Từ khung component tìm các thư viện phù hợp để sửa lại khung cho đúng design và logic, bắt đầu từ mobile trước
-III. Thực hiện test manual
+## III. Thực hiện test manual
 
 
 Cách 2: Đã có api, có logic request, chưa có design

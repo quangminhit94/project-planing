@@ -44,3 +44,9 @@ Chúng tôi cần một ứng dụng bao gồm các bước sau:
 
 ![Design mockup cho app](https://i.ibb.co/XFPc4yr/design-1.png)
 
+# Định hình logic cho app
+
+- Hình ảnh không thể chỉnh sửa trực tiếp, chỉ có thể chỉnh sửa qua table
+- Khi bấm vào tọa độ có thể scroll và hightlight bằng cách vẽ một khung màu vàng giả vào tọa độ đó
+- Bấm vào tọa độ được phép chỉnh sửa trên hình có thể scroll đến vị trí bảng và focus vào dòng chứa tọa độ đó
+- Canh chỉnh làm sao đừng để bị rớt chữ khỏi khung

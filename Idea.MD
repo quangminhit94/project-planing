@@ -61,3 +61,8 @@ So sánh thời gian:
 - Tự edit: 10 phút có 1 ảnh
 - Cho tool chạy: 10 phút có 30 ảnh
 
+So sánh chất lượng:
+
+- Tự edit: 100% nội dung và tỉ lệ khung hình
+- Tool: 80% nội dung chuẩn và tỉ lệ khung hình
+

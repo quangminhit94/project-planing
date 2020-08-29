@@ -50,3 +50,14 @@ Chúng tôi cần một ứng dụng bao gồm các bước sau:
 - Khi bấm vào tọa độ có thể scroll và hightlight bằng cách vẽ một khung màu vàng giả vào tọa độ đó
 - Bấm vào tọa độ được phép chỉnh sửa trên hình có thể scroll đến vị trí bảng và focus vào dòng chứa tọa độ đó
 - Canh chỉnh làm sao đừng để bị rớt chữ khỏi khung
+
+# Chức năng tạo điểm nhấn, chức năng khó nhưng cũng là chức năng mà con người tiết kiệm thời gian nhất
+
+- Tải lên hàng loạt ảnh
+- Tự động dịch hàng loạt ảnh và tải xuống một lần
+
+So sánh thời gian:
+
+- Tự edit: 10 phút có 1 ảnh
+- Cho tool chạy: 10 phút có 30 ảnh
+

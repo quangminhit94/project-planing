@@ -40,4 +40,7 @@ Chúng tôi cần một ứng dụng bao gồm các bước sau:
 
 1. Screen chuyển đổi: gồm một nút upload hình ảnh. Sau khi upload chuyển qua screen table và render các thông tin liên quan
 2. screen Table: stt, tên ảnh, tọa độ cần sửa, nội dung cũ, nội dung mới. 1 button để render hình ảnh mới
-3. Screen kết quả: hình ảnh kết quả. 1 nút dowload hình. 
+3. Screen kết quả: hình ảnh kết quả. 1 nút dowload hình. \
+
+![Design mockup cho app](https://ibb.co/6DSjZv7)
+
